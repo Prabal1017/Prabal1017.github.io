@@ -303,3 +303,8 @@ const resolveFetch = () => {
 };
 
 resolveFetch().then(animationTimeline());
+
+
+function showImage() {
+  document.getElementById("imageContainer").style.display = "block";
+}

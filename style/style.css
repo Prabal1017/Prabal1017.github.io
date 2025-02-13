@@ -13,10 +13,11 @@ body {
 }
 
 .pButton{
-  height: 20px;
+  height: 30px;
   width: 60px;
   background-color: lightpink;
   border-radius: 4px;
+  text-align: center;
 }
 
 .container {
@@ -238,6 +239,7 @@ body {
 .nine p {
   font-size: 2rem;
   font-weight: lighter;
+  text-align: center;
 }
 
 #replay {
